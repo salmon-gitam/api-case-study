@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Flask-JWT-Extended
+Flask-SQLAlchemy
+python-dotenv
+flask_sqlalchemy
+Werkzeug
